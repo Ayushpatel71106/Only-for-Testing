@@ -1,0 +1,31 @@
+C:\Users\admin\source\repos\WebApIAngular\WebApIAngular\bin\Debug\netcoreapp2.1\WebApIAngular.deps.json
+C:\Users\admin\source\repos\WebApIAngular\WebApIAngular\bin\Debug\netcoreapp2.1\WebApIAngular.runtimeconfig.json
+C:\Users\admin\source\repos\WebApIAngular\WebApIAngular\bin\Debug\netcoreapp2.1\WebApIAngular.runtimeconfig.dev.json
+C:\Users\admin\source\repos\WebApIAngular\WebApIAngular\bin\Debug\netcoreapp2.1\WebApIAngular.dll
+C:\Users\admin\source\repos\WebApIAngular\WebApIAngular\bin\Debug\netcoreapp2.1\WebApIAngular.pdb
+C:\Users\admin\source\repos\WebApIAngular\WebApIAngular\obj\Debug\netcoreapp2.1\WebApIAngular.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\WebApIAngular\WebApIAngular\obj\Debug\netcoreapp2.1\WebApIAngular.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\WebApIAngular\WebApIAngular\obj\Debug\netcoreapp2.1\WebApIAngular.RazorAssemblyInfo.cache
+C:\Users\admin\source\repos\WebApIAngular\WebApIAngular\obj\Debug\netcoreapp2.1\WebApIAngular.RazorAssemblyInfo.cs
+C:\Users\admin\source\repos\WebApIAngular\WebApIAngular\obj\Debug\netcoreapp2.1\WebApIAngular.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\WebApIAngular\WebApIAngular\obj\Debug\netcoreapp2.1\WebApIAngular.AssemblyInfo.cs
+C:\Users\admin\source\repos\WebApIAngular\WebApIAngular\obj\Debug\netcoreapp2.1\WebApIAngular.RazorTargetAssemblyInfo.cache
+C:\Users\admin\source\repos\WebApIAngular\WebApIAngular\obj\Debug\netcoreapp2.1\WebApIAngular.dll
+C:\Users\admin\source\repos\WebApIAngular\WebApIAngular\obj\Debug\netcoreapp2.1\WebApIAngular.pdb
+D:\CHETU\WebApi Final folder\WebApIAngular\bin\Debug\netcoreapp2.1\WebApIAngular.deps.json
+D:\CHETU\WebApi Final folder\WebApIAngular\bin\Debug\netcoreapp2.1\WebApIAngular.runtimeconfig.json
+D:\CHETU\WebApi Final folder\WebApIAngular\bin\Debug\netcoreapp2.1\WebApIAngular.runtimeconfig.dev.json
+D:\CHETU\WebApi Final folder\WebApIAngular\bin\Debug\netcoreapp2.1\WebApIAngular.dll
+D:\CHETU\WebApi Final folder\WebApIAngular\bin\Debug\netcoreapp2.1\WebApIAngular.pdb
+D:\CHETU\WebApi Final folder\WebApIAngular\obj\Debug\netcoreapp2.1\WebApIAngular.csproj.CoreCompileInputs.cache
+D:\CHETU\WebApi Final folder\WebApIAngular\obj\Debug\netcoreapp2.1\WebApIAngular.RazorAssemblyInfo.cache
+D:\CHETU\WebApi Final folder\WebApIAngular\obj\Debug\netcoreapp2.1\WebApIAngular.RazorAssemblyInfo.cs
+D:\CHETU\WebApi Final folder\WebApIAngular\obj\Debug\netcoreapp2.1\WebApIAngular.AssemblyInfoInputs.cache
+D:\CHETU\WebApi Final folder\WebApIAngular\obj\Debug\netcoreapp2.1\WebApIAngular.AssemblyInfo.cs
+D:\CHETU\WebApi Final folder\WebApIAngular\obj\Debug\netcoreapp2.1\WebApIAngular.RazorTargetAssemblyInfo.cache
+D:\CHETU\WebApi Final folder\WebApIAngular\obj\Debug\netcoreapp2.1\WebApIAngular.dll
+D:\CHETU\WebApi Final folder\WebApIAngular\obj\Debug\netcoreapp2.1\WebApIAngular.pdb
+D:\CHETU\WebApi Final folder\WebApIAngular\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\CHETU\WebApi Final folder\WebApIAngular\bin\Debug\netcoreapp2.1\appsettings.json
+D:\CHETU\WebApi Final folder\WebApIAngular\obj\Debug\netcoreapp2.1\WebApIAngular.csproj.AssemblyReference.cache
+D:\CHETU\WebApi Final folder\WebApIAngular\obj\Debug\netcoreapp2.1\WebApIAngular.genruntimeconfig.cache
